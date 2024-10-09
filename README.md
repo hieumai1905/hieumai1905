@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Hmit
-
+![](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif) <br>
 I'm a **full-stack** developer with the ability to work across a wide range of languages and technologies, delivering scalable solutions from front-end to back-end while continuously learning and adapting to new tools.
 
 # 💫 About Me:
